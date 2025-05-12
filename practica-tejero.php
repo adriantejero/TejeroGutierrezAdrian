@@ -1,5 +1,11 @@
 <?php
-
+//
+//
+//--------------------------------------------------
+// Esta linea es la que añado para comprobar 
+//
+//
+//------------------------------------------------------
 /*
 Implementar aquí la función que realiza la autenticación de usuario (solo debe haber una función).
 La función debe:
